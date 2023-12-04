@@ -1,1 +1,1 @@
-Those models are made for AGH Code Industry project "Emperor" in which I'm participating. In general they don't have textures yet.
+Those models are made for AGH Code Industry project "Emperor" in which I'm participating. Some models are ready to export to unity.
