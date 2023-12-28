@@ -1,0 +1,1 @@
+Hi, this is my Blender portfolio. I've used also ZBrush and Adobe 3D Substance Painter. My biggest project is camaro, but the others are maybe not much worse :)

@@ -1,1 +1,0 @@
-Hi, this is my Blender portfolio. My biggest project is camaro, but the others are maybe not much worse :)
